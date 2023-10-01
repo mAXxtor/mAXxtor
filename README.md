@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A backend python developer from Russia</h3>
 
-- 🌱 I’m currently learning **FastAPI, Starlette, Jinja2, jQuery, Django Framework, DRF, Telegram Bot API**
+- 🌱 I’m currently using **FastAPI, Starlette, Jinja2, jQuery, Django Framework, DRF, Telegram Bot API**
 
 - 📫 How to reach me **maxxtor21@gmail.com, maxxtor@yandex.ru**
 
