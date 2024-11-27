@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A backend python developer from Russia</h3>
+<h3 align="center">A fullstack developer from Russia</h3>
 
-- 🌱 I’m currently using **FastAPI, Starlette, Jinja2, jQuery, Django Framework, DRF, Telegram Bot API**
+- 🌱 I’m currently using **ReactJs, TypeScript, FastAPI, Starlette, Jinja2, jQuery, MongoDb, PostgreSQL, Django Framework, DRF, Telegram Bot API**
 
-- 📫 How to reach me **maxxtor21@gmail.com, maxxtor@yandex.ru**
+- 📫 How to reach me **telegramm - maxxtor, maxxtor21@gmail.com, maxxtor@yandex.ru**
 
 
 <h3 align="left">Languages and Tools:</h3>
